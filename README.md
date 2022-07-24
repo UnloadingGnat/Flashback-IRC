@@ -2,11 +2,14 @@
 Flashback is an awesome, retro IRC based app built using Django (and the Django Rest Framework) for our backend as well as React for our frontend!
 
 ### Credits
-- JetJadeja
-- UnloadingGnat 
-- transmissions11 
+- [JetJadeja](https://github.com/JetJadeja)
+- [UnloadingGnat](https://github.com/UnloadingGnat)
+- [transmissions11](https://github.com/transmissions11)
 - Aashay03
 
+## Screenshots
+![IRC Client](https://raw.githubusercontent.com/JetDeveloping/summer-code-jam-2020/master/wiggly-weasels/screenshots/IRC1.png)
+![IRC Login](https://raw.githubusercontent.com/JetDeveloping/summer-code-jam-2020/master/wiggly-weasels/screenshots/IRC2.png)
 
 ## How to use
 Once you login or sign up to Flashback, you have access to the terminal! Here you run a few commands. You can connect to group chats, which allow you to contact chat with other Flashback users. You can also create your own group. We can use the `create` command to create a new group, and the `join` command to join it. Let's try it:
@@ -86,9 +89,4 @@ cd Frontend/flashback
 npm install && npm start
 ```
 Installing the packages is simple! Just type `npm install`! Finally, to run our site, type `npm start`.
-
-### Screenshots
-![IRC Client](https://raw.githubusercontent.com/JetDeveloping/summer-code-jam-2020/master/wiggly-weasels/screenshots/IRC1.png)
-
-![IRC Login](https://raw.githubusercontent.com/JetDeveloping/summer-code-jam-2020/master/wiggly-weasels/screenshots/IRC2.png)
 
